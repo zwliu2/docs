@@ -1,7 +1,4 @@
 <img width="180px" style="border-radius: 50%" bor src="./mr.jpeg">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/social-share.js/1.0.16/css/share.min.css">
-<div class="social-share"></div>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/social-share.js/1.0.16/js/social-share.min.js"></script>
 
 # 运维-安全-渗透技术栈指南
 
@@ -15,4 +12,3 @@
 作者：小虎牙
 
 链接：https://github.com/zwliu2
-
