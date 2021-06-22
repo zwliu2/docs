@@ -1,4 +1,4 @@
-<img width="180px" style="border-radius: 50%" bor src="https://nodejsred.oss-cn-shanghai.aliyuncs.com/nodejs_roadmap-logo.jpeg?x-oss-process=style/may">
+<img width="180px" style="border-radius: 50%" bor src="https://sify98.oss-cn-chengdu.aliyun.com/12.jpeg?x-oss-process=style/may">
 
 # 运维-安全-渗透技术栈指南
 
