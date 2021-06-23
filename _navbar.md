@@ -1,2 +1,3 @@
-* [:us:, :uk:](/)
-* [:cn:](/zh-cn/)
+* 入门
+  * [快速开始](test/quickstart.md)
+  * [多页文档](test/color.md)
