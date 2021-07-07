@@ -8,7 +8,7 @@
 
 ## 具体步骤
 #### 1. 在kali上搭建dns服务
-```buildoutcfg
+```
 root@kali:/home/kali/test# cat dnsmasq.conf
 log-queries
 #定义主机与IP映射
@@ -19,10 +19,10 @@ root@kali:/home/kali/test#  docker run --name dnsmasq -d -p 53:53/udp -p 8080:80
 # 8080端口是dns服务的管理面板
 ```
 以下是dns管理面板
-* [美美的图片](image/dns-dashboard.png)
+![Alt text](../../image/dns-dashboard.png)
 
 #### 2. 为kali设置dns地址
-```buildoutcfg
+```
 root@kali:/home/kali/test# cat /etc/resolv.conf 
 #nameserver 192.168.42.129  # 修改之前的配置
 nameserver 127.0.0.1        # 新增

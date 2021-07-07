@@ -1,0 +1,1 @@
+* [cobalt strike](./cobalt-strike/_sidebar.md)
