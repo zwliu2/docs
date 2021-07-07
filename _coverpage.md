@@ -12,4 +12,4 @@
 
 作者：小虎牙
 
-链接：https://zwliu2.github.io
+链接：https://zwliu2.github.io/docs
